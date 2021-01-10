@@ -1,5 +1,5 @@
 # Diablo Powercheat
-A trainer for <b>Diablo 1 v1.09 from GOG</b>
+A trainer for <b>Diablo 1 v1.09 from GOG</b></br>
 ![Alt text](http://rezwaki.hldns.ru/diablo_trainer_screenshot.png "Preview")
 ### Trainer options:
 	Mana
