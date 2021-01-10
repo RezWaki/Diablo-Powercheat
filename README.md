@@ -1,4 +1,5 @@
 # Diablo Powercheat
+A trainer for <b>Diablo 1 v1.09 from GOG</b>
 ### Trainer options:
 	Mana
 	Health
